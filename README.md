@@ -1,3 +1,3 @@
 # EECS-441
 Project from EECS 441 - Mobile App Development
-Project may not compile locally due to missing files or dependencies
+Source code has been lost. Demos and stills are provided.
